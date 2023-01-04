@@ -1,1 +1,8 @@
 Data refers to "Git Rem files " at Destop.
+
+Steps to Another file in this folder and push to the GitHub account.
+1. Check Status by " git status"
+2. To Add file " git add ."
+3. For Commit " git commit -m " Text for recogonation"
+4.Run Command " git push origin master"
+5 Now file is uploaded at your GitHub account.
